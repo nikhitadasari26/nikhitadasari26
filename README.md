@@ -128,9 +128,9 @@ A platform that helps creators discover trends, generate AI scripts, automate wo
 
 
 
-# 🏅 GitHub Trophies
+# 👀 Profile Views
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=nikhitadasari26&theme=tokyonight&margin-w=15)
+![](https://komarev.com/ghpvc/?username=nikhitadasari26&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 
 
