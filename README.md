@@ -11,7 +11,7 @@
 
 - 🎓 B.Tech Computer Science Engineering Student
 - 💼 Flutter Full Stack Developer
-- 🤖 Building AI-powered applications with Gemini AI
+- 🤖 Building AI-powered applications 
 - 🌱 Currently learning System Design, AWS & DevOps
 - 💡 Interested in Software Engineering, AI, Cloud Computing and Backend Development
 - ⚡ Strong foundation in DSA, OOP, DBMS, Operating Systems and Computer Networks
@@ -101,7 +101,7 @@ A platform that helps creators discover trends, generate AI scripts, automate wo
 | 🟡 LeetCode | 330+ Problems • Max Rating 1580 |
 | 🟤 CodeChef | 550+ Problems • Max Rating 1082 |
 | 🔵 GeeksforGeeks | 200+ Problems • 2★ Institute Rank |
-| 🟢 HackerRank | 5★ SQL • 3★ Java • 3★ C |
+| 🟢 HackerRank | 5★ SQL  • 3★ Java  • 3★ C |
 
 
 
