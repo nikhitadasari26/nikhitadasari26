@@ -1,11 +1,11 @@
-```markdown
+
 # 👋 Hi, I'm Sai Manasa Nikhita Dasari
 
 ### 💻 Software Development Engineer | 📱 Flutter Full Stack Developer | 🤖 AI Enthusiast
 
 > Passionate about building AI-powered applications, scalable backend systems, and cross-platform mobile experiences.
 
----
+
 
 ## 🚀 About Me
 
@@ -16,7 +16,7 @@
 - 💡 Interested in Software Engineering, AI, Cloud Computing and Backend Development
 - ⚡ Strong foundation in DSA, OOP, DBMS, Operating Systems and Computer Networks
 
----
+
 
 # 🛠️ Tech Stack
 
@@ -50,7 +50,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
----
+
 
 # 🚀 Featured Projects
 
@@ -71,7 +71,7 @@ An AI-powered interview preparation platform that parses resumes and generates p
 
 - https://github.com/nikhitadasari26/Qlue-v2
 
----
+
 
 ## 🎬 CreatorOS — AI Platform for Content Creators
 
@@ -92,7 +92,7 @@ A platform that helps creators discover trends, generate AI scripts, automate wo
 
 - https://github.com/nikhitadasari26/creatoros_app
 
----
+
 
 # 📈 Coding Profiles
 
@@ -103,7 +103,7 @@ A platform that helps creators discover trends, generate AI scripts, automate wo
 | 🔵 GeeksforGeeks | 200+ Problems • 2★ Institute Rank |
 | 🟢 HackerRank | 5★ SQL • 3★ Java • 3★ C |
 
----
+
 
 # 🏆 Certifications
 
@@ -116,7 +116,7 @@ A platform that helps creators discover trends, generate AI scripts, automate wo
 - Operating Systems Basics
 - IT Specialist HTML & CSS
 
----
+
 
 # 📊 GitHub Stats
 
@@ -126,13 +126,13 @@ A platform that helps creators discover trends, generate AI scripts, automate wo
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=nikhitadasari26&theme=tokyonight)
 
----
+
 
 # 🏅 GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=nikhitadasari26&theme=tokyonight&margin-w=15)
 
----
+
 
 # 🌱 Currently Learning
 
@@ -143,7 +143,7 @@ A platform that helps creators discover trends, generate AI scripts, automate wo
 - System Design
 - DevOps
 
----
+
 
 # 📫 Connect with Me
 
@@ -152,13 +152,13 @@ A platform that helps creators discover trends, generate AI scripts, automate wo
 - 🌐 **Portfolio:** https://nikhitadasari.vercel.app
 - 💻 **GitHub:** https://github.com/nikhitadasari26
 
----
+
 
 ## 💭 Favorite Quote
 
 > **"First, solve the problem. Then, write the code."** — John Johnson
 
----
+
 
 ⭐ **Thanks for visiting my profile! If you like my work, don't forget to star my repositories.**
-```
+
